@@ -1,0 +1,184 @@
+
+body {
+    margin: 0 100px;
+    background-color: #292B2C;
+}
+
+h1 {
+    font-family: 'Anton';
+    font-size: 100px;
+    color: #fff;
+    line-height: 1.2;
+}
+
+h2 {
+    font-family: 'Ubuntu sans';
+    font-size: 22px;
+    color: #f6f6f6;
+    width: 700px;
+    margin-bottom: 40px;
+}
+
+h3 {
+    font-family: 'Anton';
+    font-size: 40px;
+    line-height: 1;
+    color: #f6f6f6;
+    border-top: 1px solid white;
+    padding-top: 40px;
+    margin-bottom:50px;
+}
+
+h4 {
+    font-family: 'Ubuntu Sans';
+    font-size: 16px;
+    color: #f6f6f6;
+}
+
+p {
+    font-family: 'Ubuntu Sans';
+    font-size: 14px;
+    font-weight: 200;
+    color: #f6f6f6;
+}
+
+button {
+    padding: 25px 60px;
+    font-family: 'Ubuntu Sans';
+    font-size: 15px;
+    margin-bottom: 100px;
+    margin-right: 40px;
+    border: none;
+}
+
+
+li {
+    display: inline-block;
+    border: 1px solid white;
+    padding: 50px;
+    width:200px;
+    font-family: 'Ubuntu';
+    text-align: center;
+    color: #fff;
+}
+
+.fontsample {
+    display: inline-block;
+    height: 400px;
+    width: 40%;
+    margin: 20px 20px 20px 0;
+    vertical-align: top;
+
+}
+
+.fontsize {
+    display: inline-block;
+    height: 400px;
+    width: 40%;
+    margin: 20px 20px 20px 0;
+    vertical-align: top;
+}
+
+#GrayBlue {
+    background-color: #292B2C;
+}
+
+#darkGray {
+    background-color: #292826;
+}
+
+#lightGray {
+    background-color: #f6f6f6;
+    color: #292826;
+}
+
+#lightBrown {
+    background-color: #A1998A;
+}
+
+#mediumBrown {
+    background-color: #49423F;
+}
+
+#anton {
+    font-family: 'Anton';
+    color: #292826;
+    padding: 20px 20px;
+    background-color: #f6f6f6;
+    font-size: 20px;
+
+}
+
+#antonsample {
+    font-family: 'Anton';
+    text-transform: uppercase;
+    color: #f6f6f6;
+    font-size: 25px;
+
+}
+
+#ubuntu {
+    font-family: 'Ubuntu Sans';
+    color: #292826;
+    padding: 20px 20px;
+    background-color: #f6f6f6;
+    font-size: 20px;
+
+}
+
+#ub1 {
+    font-family: 'Ubuntu Sans';
+    font-weight: 200;
+    font-size: 20px;
+    color: #f6f6f6;
+}
+
+#ub2 {
+    font-family: 'Ubuntu Sans';
+    font-weight: 400;
+    font-size: 20px;
+    color: #f6f6f6;
+}
+
+#ub3 {
+    font-family: 'Ubuntu Sans';
+    font-weight: 600;
+    font-size: 20px;
+    color: #f6f6f6;
+}
+
+#ub4 {
+    font-family: 'Ubuntu Sans';
+    font-weight: 800;
+    font-size: 20px;
+    color: #f6f6f6;
+}
+
+#ub5 {
+    font-family: 'Ubuntu Sans';
+    font-weight: 900;
+    font-size: 20px;
+    color: #f6f6f6;
+}
+
+#ub6 {
+    font-family: 'Ubuntu Sans';
+    font-weight: 400;
+    font-size: 20px;
+    font-style: italic;
+    color: #f6f6f6;
+}
+
+#hover {
+    background-color: #A1998A;
+}
+
+#active {
+    background-color: #49423F;
+    color: #f6f6f6;
+}
+
+#disabled {
+    background-color: lightgray;
+    color: gray;
+}
